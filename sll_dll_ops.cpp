@@ -1,3 +1,11 @@
+/* 
+// Singly linked list and doubly linked list from scratch in C++
+// Includes insertion and deletion at head, tail, and middle of each structure
+// Drake Geeteh 2/19/2024
+*/
+
+
+
 #include <iostream>
 #include <string>
 #include <cstdlib>
