@@ -1,5 +1,5 @@
 /* Homework #3, Drake Geeteh */
-
+/* Decimal to hexadecimal, octal, and binary conversions using stack implementation of linked list */
 #include <iostream>
 
 using namespace std;
